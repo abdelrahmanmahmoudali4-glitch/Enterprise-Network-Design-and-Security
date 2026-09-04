@@ -1,4 +1,3 @@
-Markdown
 # 🏢 Enterprise Network Design & Layer 2/3 Security Implementation
 
 [![Simulation](https://img.shields.io/badge/Simulator-Cisco_Packet_Tracer-005073?style=for-the-badge&logo=cisco&logoColor=white)](https://www.netacad.com/courses/packet-tracer)
